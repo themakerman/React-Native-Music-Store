@@ -6,8 +6,8 @@ A small application made for understanding basic concepts of state, list view, m
 
 
 
+![samsung galaxy s5 psd mockup 2](https://user-images.githubusercontent.com/14818804/26925407-47395168-4c7c-11e7-93c2-da4f6876afa1.png)
 
-![samsung galaxy s5 psd mockup 4](https://user-images.githubusercontent.com/14818804/26925233-94961cc6-4c7b-11e7-8463-d82bc7c521b4.png)
 
 
 
